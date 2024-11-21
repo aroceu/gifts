@@ -3,7 +3,7 @@
 <div id="sidebar">
 
 	<div id="header">
-		<img src="https://aroceu.com/img/pinkjewel.gif">
+		<img src="https://aroceu.com/gifts/img/pinkjewel.gif">
 		<br />for aroceu</div>
 
 	<ul id="navigation">

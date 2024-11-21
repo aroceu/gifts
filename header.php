@@ -9,11 +9,11 @@
 <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
 
 <!-- Add jQuery library -->
-	<script type="text/javascript" src="jquery-1.10.1.min.js"></script>
+	<script type="text/javascript" src="https://aroceu.com/gifts/scripts/jquery-1.10.1.min.js"></script>
 
 	<!-- Add fancyBox main JS and CSS files -->
-	<script type="text/javascript" src="jquery.fancybox.js"></script>
-	<link rel="stylesheet" type="text/css" href="jquery.fancybox.css" media="screen"/>
+	<script type="text/javascript" src="https://aroceu.com/gifts/scripts/jquery.fancybox.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://aroceu.com/gifts/scripts/jquery.fancybox.css" media="screen"/>
 
 	<title>for aroceu</title>
 
@@ -193,6 +193,6 @@
 		});
 	</script>
 
-	<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="https://aroceu.com/gifts/style.css" type="text/css" media="screen" />
 
 </head>
