@@ -8,6 +8,8 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
 
+    <link rel="shortcut icon" type="image/x-icon" href="https://aroceu.com/gifts/img/fav.png" />
+
 <!-- Add jQuery library -->
 	<script type="text/javascript" src="https://aroceu.com/gifts/scripts/jquery-1.10.1.min.js"></script>
 
