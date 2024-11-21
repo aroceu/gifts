@@ -4,7 +4,7 @@
 
 <h1>gifts (fanart)</h1>
 
-<p>Beyond commissioning, many of my friends have been kind enough to gift me some incredible work.</p>
+<p>Beyond commissioning, many of my friends have been kind enough to gift me some incredible work. I've also received some art for fanwork exchanges, which are here as well.</p>
 
 <p>For the sake of my sanity, this does not overlap with art for my fic, which you can view <a href="https://aroceu.com/fic/etc">on my fic site</a>.</p>
 
@@ -23,7 +23,7 @@
 	<li><a class="fancybox" href="jeanette-kagehina.png" data-fancybox-group="gallery" title="by Jeanette (paltita-sketch)"><img src="jeanette-kagehina.png" alt=""/></a></li>
 	<li><a class="fancybox" href="cathy-em.jpg" data-fancybox-group="gallery" title="by Cathy"><img src="cathy-em.jpg" alt=""/></a></li>
 	<li><a class="fancybox" href="katie-kunimi.png" data-fancybox-group="gallery" title=""><img src="katie-kunimi.png" alt=""/></a></li>
-	<li><a class="fancybox" href="mishhe-kagehina.png" data-fancybox-group="gallery" title="by mishhe"><img src="mishhe-kagehina.png" alt=""/></a></li>
+	<li><a class="fancybox" href="mishhe-kagehina.png" data-fancybox-group="gallery" title="by mishhe for interhigh"><img src="mishhe-kagehina.png" alt=""/></a></li>
 	<li><a class="fancybox" href="christina-roserade.PNG" data-fancybox-group="gallery" title=""><img src="christina-roserade.PNG" alt=""/></a></li>
 	<li><a class="fancybox" href="iforgot-bunny.png" data-fancybox-group="gallery" title=""><img src="iforgot-bunny.png" alt=""/></a></li>
 	<li><a class="fancybox" href="jannah-otps.gif" data-fancybox-group="gallery" title="by Jannah"><img src="jannah-otps.gif" alt=""/></a></li>

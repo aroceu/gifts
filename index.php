@@ -12,7 +12,7 @@
 	<ul>
 		<li>If you've made me something and it's not here, 99.99% of the time I forgot about it or didn't know if you would consider it "for me" or not. Feel free to reach out if you'd like &mdash; I'd be happy to add more :)</li>
 		<li>Some gifts or works are not linked due to now being removed or not publicly accessible in some way. However, I still like archiving that they exist.</li>
-		<li>Fanart also includes personal edits.</li>
+		<li>Fanart includes personal edits.</li>
 		<li>There are some pieces of art that I don't remember the artist's name of and didn't save it anywhere. Sorry! If you happen to be the artist of one of these pieces and would like me to credit you, please let me know.</li>
 	</ul>
 
