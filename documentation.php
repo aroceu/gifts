@@ -21,7 +21,7 @@
 	<li><big>Indie Flower</big> is the font used as an accent to keep the vibe of this site very cutesy and casual, much like my enthusiasm for the things archived here. </li>
 	<li>I continue to use Inconsolata as the main body text for consistency across similar pages.</li>
 	<li>The original idea for this site was to have it be a standard one column header above content, but then I realized that sidebar navigation would be much more useful considering the gallery aspect of it. I have made similar layouts before, but not with pixel art &mdash; and tbh, I think the pixel art really makes it pop.</li>
-	<li>I'd gotten inspired to make this in the first place by completely forgetting and then remembering this specific design of my old fic site (2017-2022, it wasn't even that long ago) and enjoying how I'd put the gallery together. Those have <a href="https://aroceu.com/fic/etc">their own home</a> now, but I've been commissioning a lot of art lately because it's my favorite thing to spend money on, and people have written me fics, so... here we are :D</li>
+	<li>I'd gotten inspired to make this in the first place by completely forgetting and then remembering <a href="https://web.archive.org/web/20210518135235/https://aroceu.com/fic">this specific design of my old fic site</a> (2017-2022, it wasn't even that long ago) and enjoying how I'd put the gallery together. Those have <a href="https://aroceu.com/fic/etc">their own home</a> now, but I've been commissioning a lot of art lately because it's my favorite thing to spend money on, and people have written me fics, so... here we are :D</li>
 </ul>
 
 <p>This site is currently not responsive/mobile-friendly. But maybe one day it will be.</p>
