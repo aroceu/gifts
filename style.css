@@ -1,0 +1,186 @@
+	*{
+	  margin: 0;
+	  padding: 0;
+	  box-sizing: border-box;
+	}
+
+		body{
+			background: url('img/hearts.gif') fixed;
+			font: normal 100%/140% 'Inconsolata';
+			margin: 0;
+			color: #333;
+		}
+
+		#sidebar{
+			width: 25%;
+			float: left;
+			margin: 1em 2.5%;
+			position: fixed;
+		}
+
+		#header{
+			font: normal 250% 'Inconsolata';
+			text-transform: lowercase;
+			text-align: center;
+			color: #f46bb4;
+			text-shadow: 0.04em 0.04em 0 #FF3939;
+			margin-top: 5em;
+		}
+
+		ul#navigation{
+			list-style-type: none;
+			margin: 1em;
+		}
+
+		ul#navigation li{
+			text-align: center;
+			text-transform: lowercase;
+			margin: 1em 0;
+		}
+
+		ul#navigation li a:link, ul#navigation li a:visited{
+			display: block;
+			background: #fff;
+			color: #ff84c6;
+			font: normal 150% 'Indie Flower';
+			text-decoration: none;
+			letter-spacing: 1px;
+			border: 1px solid #ff84c6;
+			padding: 5px;
+		}
+
+		ul#navigation li a:hover{
+			background: none;
+			color: #fff;
+			background: #ff84c6;
+		}
+
+		#container{
+			background: #fff;
+			float: right;
+			width: 70%;
+			min-height: 100vh;
+			padding: 1em;
+			position: relative;
+			background: #fff url('img/heartdrink.gif') right bottom no-repeat;
+		}
+
+		#footer{
+			border-top: 1px dotted #ff84c6; 
+			position: absolute;
+			bottom: 0;
+			width: 53vw;
+			vertical-align: bottom;
+		}
+
+		a:link, a:visited{
+			color: #f46bb4;
+		}
+
+		a:hover{
+			text-decoration: none;
+			color:#FF3939;
+		}
+
+		b{
+			color: #ff84c6;
+			font: bold 100% 'Indie Flower';
+			letter-spacing: 1px;
+		}
+
+		h1{
+			color: #ff84c6;
+			text-transform: lowercase;
+			border-bottom: 1px dotted;
+			margin: 0.5em 0;
+			font: normal 300% 'Indie Flower';
+		}
+
+		h3{
+			color: #ff84c6;
+			text-transform: lowercase;
+			margin: 0;
+			font: normal 180% 'Indie Flower';
+		}
+
+		p{
+			margin: 1em 0;
+		}
+
+		h1:after{
+			content: url('img/heartkey.gif');
+			float: right;
+			margin-top: -0.5em;
+		}
+
+		heart{
+			content: url('heart.gif');
+		}
+
+		#content{
+			margin-bottom: 5em;
+		}
+
+		#content ul{
+			padding: 1em 2em;
+			list-style-type: none;
+		}
+
+		#content ul li{
+			margin: 1em;
+		}
+
+		#content ul li:before{
+			content: url('img/2hearts.gif');
+			padding-right: 10px;
+
+		}
+
+		ul#ficlist{
+			padding: 0.5em;
+		}
+
+		ul#ficlist li:before{
+			content: url('img/ficheart.png');
+		}
+
+		fic a{
+			font: normal 130% 'Indie Flower';
+			letter-spacing: 1px;
+			text-decoration: none;
+		}
+
+		metadata{
+			display: block;
+			padding-left: 5em;
+		}
+
+		date{
+			font-style: italic;
+			color: #f49fa6;
+		}
+
+		ul#gallery{
+			list-style-type: none;
+			text-align: center;
+		}
+
+		ul#gallery li{
+			display: inline-block;
+		}
+
+		ul#gallery li img{
+			height: 220px;
+			border: 10px #dadada solid;
+			padding: 10px;
+		}
+
+		ul#gallery li a:hover img{
+			height: 220px;
+			border: 10px #f46bb4 solid;
+			padding: 10px;
+		}
+
+		#content ul#gallery li::before{
+			content: none;
+		}
