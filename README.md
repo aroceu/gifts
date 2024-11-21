@@ -6,4 +6,3 @@ A collection of fannish gifts I've received over the years.
 
 - write alt text for all the fanart
 - responsive T_T
-- documentation (at a later date)
