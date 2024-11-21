@@ -57,7 +57,7 @@
 			padding: 5px;
 		}
 
-		ul#navigation li a:hover{
+		ul#navigation li a:hover, ul#navigation li a:focus{
 			background: none;
 			color: #fff;
 			background: #ff84c6;
@@ -85,7 +85,7 @@
 			color: #f46bb4;
 		}
 
-		a:hover{
+		a:hover, a:focus{
 			text-decoration: none;
 			color:#FF3939;
 		}
@@ -130,7 +130,7 @@
 		}
 
 		#content ul{
-			padding: 1em 2em;
+			padding: 0 2em;
 			list-style-type: none;
 		}
 
@@ -162,6 +162,11 @@
 			text-decoration: none;
 		}
 
+		fic offline{
+			font: normal 130% 'Indie Flower';
+			letter-spacing: 1px;
+		}
+
 		metadata{
 			display: block;
 			padding-left: 5em;
@@ -187,7 +192,7 @@
 			padding: 10px;
 		}
 
-		ul#gallery li a:hover img{
+		ul#gallery li a:hover img, ul#gallery li a:focus img{
 			height: 220px;
 			border: 10px #f46bb4 solid;
 			padding: 10px;

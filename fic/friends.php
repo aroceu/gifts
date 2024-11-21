@@ -80,28 +80,28 @@
 <metadata><date>February 11, 2011</date></metadata>
 </li>
 
-<li class="fic"><fic>Private Lessons by xrosepetalsx</fic>
+<li class="fic"><fic><offline>Private Lessons</offline> by xrosepetalsx</fic>
 	<metadata><date>2011</date></metadata></li>
 
-<li class="fic"><fic>Bound by xrosepetalsx</fic>
+<li class="fic"><fic><offline>Bound</offline> by xrosepetalsx</fic>
 	<metadata><date>2011</date></metadata></li>
 
-<li class="fic"><fic>Punishment by xrosepetalsx</fic>
+<li class="fic"><fic><offline>Punishment</offline> by xrosepetalsx</fic>
 	<metadata><date>2011</date></metadata></li>
 
-<li class="fic"><fic>Lust is Easy, Love is Hard, Like is most Important by dandanfung</fic>
+<li class="fic"><fic><offline>Lust is Easy, Love is Hard, Like is most Important</offline> by dandanfung</fic>
 	<metadata><date>2011</date></metadata></li>
 
-<li class="fic"><fic>the new york state of mind by Brixy</fic>
+<li class="fic"><fic><offline>the new york state of mind</offline> by Brixy</fic>
 	<metadata><date>2011</date></metadata></li>
 
-<li class="fic"><fic>Break Each Piece of Me by Annie</fic>
+<li class="fic"><fic><offline>Break Each Piece of Me</offline> by Annie</fic>
 	<metadata><date>2011</date></metadata></li>
 
-<li class="fic"><fic>The Art of Trying by Anne</fic>
+<li class="fic"><fic><offline>The Art of Trying</offline> by Anne</fic>
 	<metadata><date>2011</date></metadata></li>
 
-<li class="fic"><fic>Chaos, turn off quiet by Ally</fic>
+<li class="fic"><fic><offline>Chaos, turn off quiet</offline> by Ally</fic>
 	<metadata><date>2011</date></metadata></li>
 
 <li class="fic">
@@ -109,46 +109,46 @@
 <metadata><date>November 11, 2010</date></metadata>
 </li>
 
-<li class="fic"><fic>Maybe, He Loved Him Too. by akihikaru</fic>
+<li class="fic"><fic><offline>Maybe, He Loved Him Too.</offline> by akihikaru</fic>
 	<metadata><date>2010~2011</date></metadata></li>
 
-<li class="fic"><fic>I like you. I like You. by akihikaru</fic>
+<li class="fic"><fic><offline>I like you. I like You.</offline> by akihikaru</fic>
 	<metadata><date>2010~2011</date></metadata></li>
 
-<li class="fic"><fic>It's When the Sun Looks Like It's Never Going To Shine Again by akihikaru</fic>
+<li class="fic"><fic><offline>It's When the Sun Looks Like It's Never Going To Shine Again</offline> by akihikaru</fic>
 	<metadata><date>2010~2011</date></metadata></li>
 
-<li class="fic"><fic>It's When Perfect Crumbles Away by akihikaru</fic>
+<li class="fic"><fic><offline>It's When Perfect Crumbles Away</offline> by akihikaru</fic>
 	<metadata><date>2010~2011</date></metadata></li>
 
-<li class="fic"><fic>Lost to Be Found by Christie</fic>
+<li class="fic"><fic><offline>Lost to Be Found</offline> by Christie</fic>
 	<metadata><date>2010~2011</date></metadata></li>
 
-<li class="fic"><fic>silly (love) story by prpldrkrse</fic>
+<li class="fic"><fic><offline>silly (love) story</offline> by prpldrkrse</fic>
 	<metadata><date>2010</date></metadata></li>
 
-<li class="fic"><fic>I'm on a boat by Lune</fic>
+<li class="fic"><fic><offline>I'm on a boat</offline> by Lune</fic>
 	<metadata><date>2010</date></metadata></li>
 
-<li class="fic"><fic>It's Because I Love You by tsukixchan</fic>
+<li class="fic"><fic><offline>It's Because I Love You</offline> by tsukixchan</fic>
 	<metadata><date>2010</date></metadata></li>
 
-<li class="fic"><fic>Ubiquitous by unactivist</fic>
+<li class="fic"><fic><offline>Ubiquitous</offline> by unactivist</fic>
 	<metadata><date>2010</date></metadata></li>
 
-<li class="fic"><fic>disclaimed kingdoms by unactivist</fic>
+<li class="fic"><fic><offline>disclaimed kingdoms</offline> by unactivist</fic>
 	<metadata><date>2010</date></metadata></li>
 
-<li class="fic"><fic>A Prelude of Us by unactivist</fic>
+<li class="fic"><fic><offline>A Prelude of Us</offline> by unactivist</fic>
 	<metadata><date>2010</date></metadata></li>
 
-<li class="fic"><fic>Love is like a Pi by heartl0ck</fic>
+<li class="fic"><fic><offline>Love is like a Pi</offline> by heartl0ck</fic>
 	<metadata><date>2010</date></metadata></li>
 
-<li class="fic"><fic>Virtual Pink Sparkling Hearts by kpoppin</fic>
+<li class="fic"><fic><offline>Virtual Pink Sparkling Hearts</offline> by kpoppin</fic>
 	<metadata><date>2010</date></metadata></li>
 
-<li class="fic"><fic>notes & note passing by kpoppin</fic>
+<li class="fic"><fic><offline>notes & note passing</offline> by kpoppin</fic>
 	<metadata><date>2010</date></metadata></li>
 
 </ul>
