@@ -4,7 +4,7 @@
 
 <h1>gifts (fic) from exchanges/events</h1>
 
-<p>Fics I have received as part of an exchange or other fannish event. <small>(With exceptions for remixes.)</small></p>
+<p>Fics I have received as part of an exchange or other fannish event. <small>(<a href="https://aroceu.com/fic/etc">With exceptions</a>.)</small></p>
 
 <div id="events">
 

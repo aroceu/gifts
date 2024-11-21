@@ -8,7 +8,7 @@
 
 <p>My Splatoon octoling is how I see myself and how I'd like others to visualize my presence online, despite having a physical form. I'm so attached to my octoling's design that I have commissioned just about the same amount of art for every other fandom combined as I have for art of my octoling. I've been playing since 2018, and I'm sure I'll commission more art with each new game.</p>
 
-<p>Some of this art has been gifted to me by friends. I was also on a competitive team, <i>Inkblot Dropouts</i>, for about a year, so some group art is here as well.</p>
+<p>Some of this art has been gifted to me by friends. I was also on a competitive team, <big>Inkblot Dropouts</big>, for about a year, so some group art is here as well.</p>
 
 <p>You can check out my octoling's vanity project at <a href="https://arrow.uwu.ai">arrow.uwu.ai</a>.</p>
 

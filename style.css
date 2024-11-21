@@ -27,6 +27,14 @@
 			margin-top: 5em;
 		}
 
+		#header a:link, #header a:visited{
+			text-decoration: none;
+		}
+
+		#header a:hover, #header a:focus{
+			color: #fff;
+		}
+
 		ul#navigation{
 			list-style-type: none;
 			margin: 1em;
@@ -196,4 +204,9 @@
 			  font-size: 90%;
 			  width: 80%;
 			  margin: 3em auto 0;
+		}
+
+		big{
+			font-family: 'Indie Flower';
+			letter-spacing: 1px;
 		}
