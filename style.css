@@ -191,15 +191,13 @@
 		}
 
 		ul#gallery li img{
-			height: 220px;
+			height: 200px;
 			border: 10px #dadada solid;
 			padding: 10px;
 		}
 
 		ul#gallery li a:hover img, ul#gallery li a:focus img{
-			height: 220px;
 			border: 10px #f46bb4 solid;
-			padding: 10px;
 		}
 
 		#content ul#gallery li::before{
