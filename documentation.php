@@ -33,6 +33,7 @@
 	<li>The gallery uses <a href="https://fancyapps.com/fancybox/">FancyBox</a> for the zoom in gallery on click. You can use your keyboard arrow keys to navigate through as well.</li>
 	<li>Pixel art was found through <a href="https://pixel-soup.tumblr.com">pixel-soup</a> on Tumblr.</li>
 	<li>I actually coded this one from scratch rather than stealing my own code.</li>
+	<li>I listened to <a href="https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl?si=1aShxEH9RRqFa0Dtm_tzVQ">Warriors (2024)</a> all the way through twice while putting this site together.</li>
 </ul>
 
 <?php include('footer.php') ?>
