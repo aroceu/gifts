@@ -1,6 +1,6 @@
-<?php include('header.php') ?>
+<?php include('../header.php') ?>
 
-<?php include('sidebar.php') ?>
+<?php include('../sidebar.php') ?>
 
 <h1>gifts (fanart)</h1>
 
@@ -28,4 +28,4 @@
 
 </ul>
 
-<?php include('footer.php') ?>
+<?php include('../footer.php') ?>
