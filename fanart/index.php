@@ -9,8 +9,8 @@
 <p>For the sake of my sanity, this does not overlap with art for my fic, which you can view <a href="https://aroceu.com/fic/etc">on my fic site</a>.</p>
 
 <ul id="gallery">
-	<li><a class="fancybox" href="quel-patpran2.png" data-fancybox-group="gallery" title="by Quel (nong_d_nao)"><img src="quel-patpran2.png" alt=""/></a></li>
-	<li><a class="fancybox" href="quel-patpran.png" data-fancybox-group="gallery" title="by Quel (nong_d_nao)"><img src="quel-patpran.png" alt=""/></a></li>
+	<li><a class="fancybox" href="quel-patpran2.jpg" data-fancybox-group="gallery" title="by Quel (nong_d_nao)"><img src="quel-patpran2.jpg" alt=""/></a></li>
+	<li><a class="fancybox" href="quel-patpran.jpg" data-fancybox-group="gallery" title="by Quel (nong_d_nao)"><img src="quel-patpran.jpg" alt=""/></a></li>
 	<li><a class="fancybox" href="ling-patpran.png" data-fancybox-group="gallery" title="by Ling (6480)"><img src="ling-patpran.png" alt=""/></a></li>
 	<li><a class="fancybox" href="sani-patpran.png" data-fancybox-group="gallery" title="by Sani"><img src="sani-patpran.png" alt=""/></a></li>
 	<li><a class="fancybox" href="ko-lwj.jpg" data-fancybox-group="gallery" title="by Ko (pzxce)"><img src="ko-lwj.jpg" alt=""/></a></li>
