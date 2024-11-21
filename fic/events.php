@@ -6,6 +6,8 @@
 
 <p>Fics I have received as part of an exchange or other fannish event. <small>(With exceptions for remixes.)</small></p>
 
+<div id="events">
+
 <ul id="ficlist">
 
 	<li class="fic">
@@ -129,5 +131,7 @@
 	</li>
 
 </ul>
+
+</div>
 
 <?php include('../footer.php') ?>

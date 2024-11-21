@@ -140,8 +140,12 @@
 			padding: 0.5em;
 		}
 
-		ul#ficlist li:before{
-			content: url('img/ficheart.png');
+		#friends ul#ficlist li:before{
+			content: url('img/friendheart.png');
+		}
+
+		#events ul#ficlist li:before{
+			content: url('img/eventheart.png');
 		}
 
 		fic a{
@@ -183,4 +187,13 @@
 
 		#content ul#gallery li::before{
 			content: none;
+		}
+
+		blockquote{
+			background: url('https://aroceu.com/gifts/img/bq.gif');
+			  padding: 1.5em;
+			  border-radius: 30px;
+			  font-size: 90%;
+			  width: 80%;
+			  margin: 3em auto 0;
 		}

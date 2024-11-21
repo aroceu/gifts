@@ -6,6 +6,8 @@
 
 <p>Fics that I have tricked my friends into writing for me &gt;:)</p>
 
+<div id="friends">
+
 <ul id="ficlist">
 
 <li class="fic">
@@ -150,5 +152,7 @@
 	<metadata><date>2010</date></metadata></li>
 
 </ul>
+
+</div>
 
 <?php include('../footer.php') ?>

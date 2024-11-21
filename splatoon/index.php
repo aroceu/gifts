@@ -15,7 +15,7 @@
 <ul id="gallery">
 	<li><a class="fancybox" href="s3-stupjam.png" data-fancybox-group="gallery" title="by stupjam"><img src="s3-stupjam.png" alt=""/></a></li>
 	<li><a class="fancybox" href="s3-oveikeii.png" data-fancybox-group="gallery" title="by oveikeii"><img src="s3-oveikeii.png" alt=""/></a></li>
-	<li><a class="fancybox" href="s3-annaswelle" data-fancybox-group="gallery" title="by AnnaSwelle"><img src="s3-annaswelle" alt=""/></a></li>
+	<li><a class="fancybox" href="s3-annaswelle.png" data-fancybox-group="gallery" title="by AnnaSwelle"><img src="s3-annaswelle.png" alt=""/></a></li>
 	<li><a class="fancybox" href="s3-kamumbo.png" data-fancybox-group="gallery" title="by Kamumbo"><img src="s3-kamumbo.png" alt=""/></a></li>
 	<li><a class="fancybox" href="s3-armasdraws.jpg" data-fancybox-group="gallery" title="by ArmasDraws"><img src="s3-armasdraws.jpg" alt=""/></a></li>
 	<li><a class="fancybox" href="s3-amipoo.jpg" data-fancybox-group="gallery" title="by Amipoo"><img src="s3-amipoo.jpg" alt=""/></a></li>
