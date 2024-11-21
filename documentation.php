@@ -4,7 +4,7 @@
 
 <h1>Documentation</h1>
 
-<p>I made this website in <strike color="#ffcee8">eight hours</strike> one evening (with polishing afterward), mostly because I could see with such clarity what I wanted it to look like. I thought I'd compiled a list like this before, but maybe not. I even checked the Wayback Machine, but all I could find were fics people had written for me that I'd saved locally to my computer.</p>
+<p>I made this website in <strike>eight hours</strike> one evening (with polishing afterward), mostly because I could see with such clarity what I wanted it to look like. I thought I'd compiled a list like this before, but maybe not. I even checked the Wayback Machine, but all I could find were fics people had written for me that I'd saved locally to my computer.</p>
 
 <p>Having this website makes me feel a bit self-conscious, even though the reason I made this site is out of gratitude much more than anything else. I love showing off things other people have made me in the same way that I love showing off things that I made myself. I think creativity is awesome and it's even awesomer when it's made specifically for me. And over the years I've turned into a real collector of things that make me happy. This is one of such cases.</p>
 
