@@ -11,8 +11,8 @@
 <br />These lists do not include remixes; those are listed with my <a href="https://aroceu.com/fic/etc/">related works</a> instead.</blockquote>
 
 <ul id="ficindex">
-	<li><a href="friends.php">Friend Gifts</a></li>
-	<li><a href="events.php">Event/Exchange Gifts</a></li>
+	<li><a href="friends">Friend Gifts</a></li>
+	<li><a href="events">Event/Exchange Gifts</a></li>
 </ul>
 
 <?php include('../footer.php') ?>
