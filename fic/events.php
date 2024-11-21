@@ -92,7 +92,7 @@
 
 	<li class="fic">
 	<fic><a href="https://pokemod.dreamwidth.org/24572.html">Awake</a> by Haruka_Malayo</fic>
-	<metadata><date>January 9, 2016</date> &bull; <a herf="https://secretstantler.tumblr.com/">secretstantler</a></metadata>
+	<metadata><date>January 9, 2016</date> &bull; <a href="https://secretstantler.tumblr.com/">secretstantler</a></metadata>
 	</li>
 
 	<li class="fic">
@@ -112,7 +112,7 @@
 
 	<li class="fic">
 	<fic><a href="https://pokemod.dreamwidth.org/14813.html">Spring Will Come, In Time</a> by fugthimble/manhattan</fic>
-	<metadata><date>December 16, 2012</date> &bull; <a herf="https://secretstantler.tumblr.com/">secretstantler</a></metadata>
+	<metadata><date>December 16, 2012</date> &bull; <a href="https://secretstantler.tumblr.com/">secretstantler</a></metadata>
 	</li>
 
 	<li class="fic">
