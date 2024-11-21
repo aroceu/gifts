@@ -144,8 +144,12 @@
 
 		}
 
-		#content ul#ficlist{
+		#content ul #ficindex{
 			padding: 1.5em 0.5em;
+		}
+
+		ul#ficlist{
+			padding: 0.5em;
 		}
 
 		#friends ul#ficlist li:before{
