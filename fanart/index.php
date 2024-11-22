@@ -6,7 +6,7 @@
 
 <p>Beyond commissioning, many of my friends have been kind enough to gift me some incredible work. I've also received some art for fanwork exchanges, which are here as well.</p>
 
-<p>For the sake of my sanity, this does not overlap with art for my fic, which you can view <a href="https://aroceu.com/fic/etc">on my fic site</a>.</p>
+<p>For the sake of my sanity, this gallery is not necessarily inclusive of art for my fic <i>unless</i> it was made with specifically me in mind, not just the fic itself. Art for my fic (and not necessarily me) can be viewed <a href="https://aroceu.com/fic/etc">on my fic site</a>.</p>
 
 <ul id="gallery">
 	<li><a class="fancybox" href="quel-patpran.jpg" data-fancybox-group="gallery" title="by Quel (nong_d_nao)"><img src="quel-patpran.jpg" alt=""/></a></li>
