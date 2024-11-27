@@ -6,7 +6,7 @@
 
 <p>This is a gallery of virtual things I have commissioned and things people have given me, either as part of an event or simply because they wanted to. I adore the things people make for me very much and want to show them off here, in equal part if I paid for them or if I didn't.</p>
 
-<p>Please take a look around and be sure to check out the creators if they're still around as well! <heart></heart></p>
+<p>Please take a look around and be sure to check out the creators if they're around as well! <heart></heart></p>
 
 <h3>Notes</h3>
 	<ul>

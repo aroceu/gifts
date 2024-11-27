@@ -139,7 +139,7 @@
 		}
 
 		#content ul li:before{
-			content: url('img/2hearts.gif');
+			content: url('img/2hearts.png');
 			padding-right: 10px;
 
 		}
