@@ -7,6 +7,7 @@
 <p>I love commissioning art - it's one of my favorite ways to spend money ^_^ Below are all the pieces I've commissioned so far over the years.</p>
 
 <ul id="gallery">
+	<li><a class="fancybox" href="lilkikibat-kingdra.png" data-fancybox-group="gallery" title="by lilkikibat"><img src="lilkikibat-kingdra.png" alt=""/></a></li>
 	<li><a class="fancybox" href="uwibbit-patpran.png" data-fancybox-group="gallery" title="by uwibbit"><img src="uwibbit-patpran.png" alt=""/></a></li>
 	<li><a class="fancybox" href="uwibbit-patpran-pkmn.png" data-fancybox-group="gallery" title="by uwibbit"><img src="uwibbit-patpran-pkmn.png" alt=""/></a></li>
 	<li><a class="fancybox" href="uwibbit-prankirby.png" data-fancybox-group="gallery" title="by uwibbit"><img src="uwibbit-prankirby.png" alt=""/></a></li>
