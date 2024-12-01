@@ -287,14 +287,15 @@ ul#navigation li a:link, ul#navigation li a:visited{
 	border: none;
 }
 
-#navigation li .close{
+.close{
+	display: block;
+}
+
+#navigation .close li {
 	background: #f46bb4;
   color: #fff;
   padding: 5px;
-}
-
-#navigation li .close a:hover{
-	cursor: ;
+  display: block;
 }
     
 }
