@@ -8,6 +8,8 @@
 
 <p>Having this website makes me feel a bit self-conscious, even though the reason I made this site is out of gratitude much more than anything else. I love showing off things other people have made me in the same way that I love showing off things that I made myself. I think creativity is awesome and it's even awesomer when it's made specifically for me. And over the years I've turned into a real collector of things that make me happy. This is one of such cases.</p>
 
+<p>And if you're wondering why commissions are here: it's because they're gifts from myself, for myself. So they count too.</p>
+
 <p>Anyway, I'm grateful for always having so many creative friends, and running into other creatives along the way just to give to one another, for the fun of it. I've made networks of friends this way, even though I'd still be happy just collecting my little trinkets.</p>
 
 <h3>Design</h3>
