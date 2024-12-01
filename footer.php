@@ -10,7 +10,7 @@
 
 <script>
      
-     function togglenavigation() {
+     function toggleNavigation() {
     var element = document.getElementById("navigation");
     if (element.style.display == "block") {
         element.style.display = "none";
