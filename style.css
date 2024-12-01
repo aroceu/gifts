@@ -253,6 +253,7 @@ html {
 
 #container{
 	width: auto;
+	float: none;
 }
 
 .navigationbutton{
