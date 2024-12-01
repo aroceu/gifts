@@ -222,7 +222,7 @@
 			color: #ffcee8;
 		}
 
-		.mobilenav{
+		.mobilenav, .close{
 			display: none;
 		}
 
