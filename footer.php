@@ -27,14 +27,6 @@ function navigation_close() {
   document.getElementById("navigation").style.display = "none";
 }
 
-function filter_open() {
-  document.getElementById("filter").style.display = "block";
-}
-
-function filter_close() {
-  document.getElementById("filter").style.display = "none";
-}
-
 </script>
 
 </body>

@@ -13,10 +13,10 @@
 	</div>
 
 	<div class="mobilenav">
-		<div class="navigationbutton"><button style="" onclick="togglenavigation()">Click for Navigation</button></div>
+		<div class="navigationbutton"><button style="" onclick="toggleNavigation()">Click for Navigation</button></div>
 		<ul id="navigation">
 		<?php include('navigation.php') ?>
-		<li><div class="close"><a onclick="togglenavigation()">Close</a></div></li> <!-- make invisible on desktop -->
+		<li><div class="close"><a onclick="toggleNavigation()">Close</a></div></li> <!-- make invisible on desktop -->
 		</ul>
 	</div>
 
