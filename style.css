@@ -221,3 +221,80 @@
 		strike{
 			color: #ffcee8;
 		}
+
+		.mobilenav{
+			display: none;
+		}
+
+ @media only screen and (max-width: 811px) and (min-width: 0px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+.desktopnav{
+	display: none;
+}
+
+.mobilenav{
+	display: block;
+}
+
+#sidebar{
+	width: auto;
+	float: none;
+	position: static;
+	margin: 0;
+}
+
+#header{
+	margin-top: 1em;
+}
+
+#container{
+	width: auto;
+}
+
+.navigationbutton{
+	margin-top: 2em;
+}
+
+.navigationbutton button{
+	width: 100%;
+  display: block;
+  border: 0;
+  background: #f46bb4;
+  color: #fff;
+  padding: 5px;
+  font: normal 150% 'Indie Flower';
+  text-transform: lowercase;
+  letter-spacing: 1px;
+}
+
+.navigationbutton button:hover{
+	cursor: pointer;
+}
+
+ul#navigation{
+	margin: 0;
+  display: none;
+}
+ul#navigation li{
+	margin: 0;
+}
+
+ul#navigation li a:link, ul#navigation li a:visited{
+	border: none;
+}
+
+#navigation li .close{
+	background: #f46bb4;
+  color: #fff;
+  padding: 5px;
+}
+
+#navigation li .close a:hover{
+	cursor: ;
+}
+    
+}

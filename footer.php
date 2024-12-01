@@ -8,4 +8,35 @@
 
 </div>
 
+<script>
+     
+     function togglenavigation() {
+    var element = document.getElementById("navigation");
+    if (element.style.display == "block") {
+        element.style.display = "none";
+    } else {
+        element.style.display = "block";
+    }
+}
+
+function navigation_open() {
+  document.getElementById("navigation").style.display = "block";
+}
+
+function navigation_close() {
+  document.getElementById("navigation").style.display = "none";
+}
+
+function filter_open() {
+  document.getElementById("filter").style.display = "block";
+}
+
+function filter_close() {
+  document.getElementById("filter").style.display = "none";
+}
+
+</script>
+
 </body>
+
+</html>
