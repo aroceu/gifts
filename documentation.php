@@ -26,8 +26,6 @@
 	<li>I'd gotten inspired to make this in the first place by completely forgetting and then remembering <a href="https://web.archive.org/web/20210518135235/https://aroceu.com/fic">this specific design of my old fic site</a> (2017-2022, it wasn't even that long ago) and enjoying how I'd put the gallery together. Those have <a href="https://aroceu.com/fic/etc">their own home</a> now, but I've been commissioning a lot of art lately because it's my favorite thing to spend money on, and people have written me fics, so... here we are :D</li>
 </ul>
 
-<p>This site is currently not responsive/mobile-friendly. But maybe one day it will be.</p>
-
 <h3>Credits/Toolkit</h3>
 
 	<ul>
@@ -36,6 +34,7 @@
 	<li>Pixel art was found through <a href="https://pixel-soup.tumblr.com">pixel-soup</a> on Tumblr.</li>
 	<li>I actually coded this one from scratch rather than stealing my own code.</li>
 	<li>I listened to <a href="https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl?si=1aShxEH9RRqFa0Dtm_tzVQ">Warriors (2024)</a> all the way through twice while putting this site together.</li>
+	<li>And watched <a href="https://www.youtube.com/watch?v=gSfCKTHNGYE">Swiftologist's "ranking the BEST and WORST music videos of 2024"</a> while making the responsive version.</li>
 	<li><a href="https://github.com/aroceu/gifts">View this project on Github</a>.</li>
 </ul>
 
