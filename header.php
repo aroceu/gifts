@@ -4,6 +4,9 @@
 
 <!-- navigation hearts: https://pixel-soup.tumblr.com/post/93863585372/pixelspoox-request-hearts -->
 
+	<meta name="viewport" content="initial-scale=1.0, maximum-scale=5, width=device-width">
+
+
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
