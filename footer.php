@@ -2,11 +2,13 @@
 
 <div id="footer">
 
-	<p>&copy; 2009-<?php echo date("Y"); ?> aroceu <heart></heart> <a href="https://aroceu.com/gifts/documentation">documentation</a> <heart></heart> <a href="https://aroceu.com/atlas">sitemap</a> <heart></heart> <a href="https://aroceu.com">contact me</a>  </p>
+	<p>&copy; 2009-<?php echo date("Y"); ?> aroceu <heart></heart> <a href="https://aroceu.com/gifts/documentation">documentation</a> <heart></heart> <a href="https://aroceu.com/atlas">sitemap</a> <heart></heart> <a href="https://aroceu.com">contact me</a> <heart></heart> ↑ ↑ ↓ ↓ ← → ← → B A </p>
 
 </div>
 
 </div>
+
+<script type="text/javascript" src="https://kingdra.net/x/konami.js"></script>
 
 <script>
      
@@ -30,5 +32,7 @@ function navigation_close() {
 </script>
 
 </body>
+
+
 
 </html>
