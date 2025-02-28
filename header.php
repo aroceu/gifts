@@ -5,7 +5,7 @@
 <!-- navigation hearts: https://pixel-soup.tumblr.com/post/93863585372/pixelspoox-request-hearts -->
 
 	<meta name="viewport" content="initial-scale=1.0, maximum-scale=5, width=device-width">
-
+	<meta name="description" content="just another perverted hobbyist on the internet"/>
 
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
