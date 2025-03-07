@@ -10,7 +10,7 @@
 
 <p>And if you're wondering why commissions are here: it's because they're gifts from myself, for myself. So they count too.</p>
 
-<p>Anyway, I'm grateful for always having so many creative friends, and running into other creatives along the way just to give to one another, for the fun of it. I've made networks of friends this way, even though I'd still be happy just collecting my little trinkets.</p>
+<p>Anyway, I'm grateful for always having so many creative friends, and running into other creatives along the way just to give to one another, for the fun of it. I've made networks of friends this way, even though I'd still be happy just collecting my little trinkets. But in the same way, my relationships with other people are equally precious to me, so I like preserving them and treating them with care as well.</p>
 
 <h3>Design</h3>
 
