@@ -7,6 +7,7 @@
 <p>I love commissioning art - it's one of my favorite ways to spend money ^_^ Below are all the pieces I've commissioned so far over the years.</p>
 
 <ul id="gallery">
+	<li><a class="fancybox" href="uwibbit-fake-it-cover.jpg" data-fancybox-group="gallery" title="by uwibbit"><img src="uwibbit-fake-it-cover.jpg" alt="Cover of Pat and Pran teasing each other in an office workplace, with the title 'Fake It (til you make it) by aroceu'."/></a></li>
 	<li><a class="fancybox" href="lilkikibat-kingdra.png" data-fancybox-group="gallery" title="by lilkikibat"><img src="lilkikibat-kingdra.png" alt="Kingdra with bubbles"/></a></li>
 	<li><a class="fancybox" href="uwibbit-patpran.png" data-fancybox-group="gallery" title="by uwibbit"><img src="uwibbit-patpran.png" alt="Chibi Pat and Pran kissing and holding hands"/></a></li>
 	<li><a class="fancybox" href="uwibbit-patpran-pkmn.png" data-fancybox-group="gallery" title="by uwibbit"><img src="uwibbit-patpran-pkmn.png" alt="Pat with an Arcanine and Pran with a Vulpix, both posed to battle each other"/></a></li>
