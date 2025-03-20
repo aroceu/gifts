@@ -12,7 +12,7 @@
 
 <p>For alt text purposes: my octoling has tan skin, the feminine option ponytail, and bright pink ink. Her outfit in Splatoon 2 is a black bandana, hothouse hoodie, and Annaki Arachno boots, with the custom hydra splatling as her main weapon. In Splatoon 2, her outfit is the tentaclinger earring (sometimes visible), Moby knit, and the Annaki Tigers, with the vanilla tri-stringer (standard skin) as her main weapon.</p>
 
-<p>You can check out my octoling's vanity project at <a href="https://arrow.uwu.ai">arrow.uwu.ai</a>.</p>
+<p>You can check out my dedicated Splatoon webpage <a href="https://aroceu.com/splatoon">here</a>.</p>
 
 <ul id="gallery">
 	<li><a class="fancybox" href="s3-stupjam.png" data-fancybox-group="gallery" title="by stupjam"><img src="s3-stupjam.png" alt="Digital art of my octoling in Splatoon 3 fighting alongside Kingdra from Pokemon. My tri-stringer is outputting pink ink while Kingdra is outputting dark blue ink, both colors blinding in the ink at our feet."/></a></li>
