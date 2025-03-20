@@ -28,7 +28,6 @@
 
 <!-- group art -->
 
-	<li><a class="fancybox" href="idx-heightchart.jpeg" data-fancybox-group="gallery" title="by Qul"><img src="idx-heightchart.jpeg" alt="Banner of sketches of five Splatoon characters but with varying heights. The shortest is holding a large inkbrush; the second-shortest is me with the bow; the next two are approximately the same height with a nautilus and a splatana stamper; and the last is much taller than the others with only the lower half of their body holding a luna blaster is visible."/></a></li>
 	<li><a class="fancybox" href="idx-callouts.png" data-fancybox-group="gallery" title="by Buzzy (oblivionoil)"><img src="idx-callouts.png" alt="Banner of simple doodles of five Splatoon characters (four octolings, including mine, and one inkling) as if they were finger puppets on a white background."/></a></li>
 	<li><a class="fancybox" href="ar-sallyconigal.jpg" data-fancybox-group="gallery" title="by Sally Conigal"><img src="ar-sallyconigal.jpg" alt="Digital art of my octoling from Splatoon 2 with Rae's, who is an octoling with her hair (tentacles) down, light blue ink, pilot goggles, a white-tshirt, and the dynamo roller. The octolings are posed next to each other and exuding confidence, with colored ink in swirls behind them on a black background."/></a></li>
 
