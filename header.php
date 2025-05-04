@@ -20,7 +20,7 @@
 	<script type="text/javascript" src="https://aroceu.com/gifts/scripts/jquery.fancybox.js"></script>
 	<link rel="stylesheet" type="text/css" href="https://aroceu.com/gifts/scripts/jquery.fancybox.css" media="screen"/>
 
-	<title>for aroceu</title>
+	<title>gifts (for aroceu)</title>
 
 	<script type="text/javascript">
 		$(document).ready(function() {
