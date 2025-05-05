@@ -9,6 +9,7 @@
 <p>For the sake of my sanity, this gallery is not necessarily inclusive of art for my fic <i>unless</i> it was made with specifically me in mind, not just the fic itself. Art for my fic (and not necessarily me) can be viewed <a href="https://aroceu.com/fic/etc">on my fic site</a>.</p>
 
 <ul id="gallery">
+	<li><a class="fancybox" href="westley-girls.png" data-fancybox-group="gallery" title="by westley"><img src="westley-girls.png" alt="A notebook sketch of two girls sitting next to each other."/></a></li>
 	<li><a class="fancybox" href="quel-patpran.jpg" data-fancybox-group="gallery" title="by Quel (nong_d_nao)"><img src="quel-patpran.jpg" alt="Sketch of Pat and Pran cuddling and sharing headphones to listen to music"/></a></li>
 	<li><a class="fancybox" href="ling-patpran.png" data-fancybox-group="gallery" title="by Ling (6480)"><img src="ling-patpran.png" alt="Sketch of Pat and Pran looking at stars"/></a></li>
 	<li><a class="fancybox" href="sani-patpran.png" data-fancybox-group="gallery" title="by Sani"><img src="sani-patpran.png" alt="Digital art of Pat and Pran as an octoling and inkling from Splatoon, in blue and red ink respectively"/></a></li>
