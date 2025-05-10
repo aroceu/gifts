@@ -7,6 +7,7 @@
 <p>I love commissioning art - it's one of my favorite ways to spend money ^_^ Below are all the pieces I've commissioned so far over the years.</p>
 
 <ul id="gallery">
+	<li><a class="fancybox" href="scumsuck-duke.png" data-fancybox-group="gallery" title="by scumsuck, originally for my Neocities"><img src="scumsuck-duke.png" alt="Digital art of a small light brown poodle with sparkly teddy bear eyes"/></a></li>
 	<li><a class="fancybox" href="otapxl-trainer-card.png" data-fancybox-group="gallery" title="by otapxl"><img src="otapxl-trainer-card.png" alt="A light blue Pokemon trainer card with the name Arrow and the Pokemon trainer class, along with Pokemon League badges. In the profile picture is a trainer hugging six Pokemon: Kingdra, Sceptile, Luxray, Talonflame, Aggron, Mienshao. The trainer has long black hair in a ponytail, a pink bandana in their hair, a fleece jacket resembling the Moby Knit from Splatoon 3 (a tan and cream sweater), and tight black leggings and shirt, with red Pokemon ranger boots and a belt underneath."/></a></li>
 	<li><a class="fancybox" href="uwibbit-fake-it-cover.jpg" data-fancybox-group="gallery" title="by uwibbit"><img src="uwibbit-fake-it-cover.jpg" alt="Cover of Pat and Pran teasing each other in an office workplace, with the title 'Fake It (til you make it) by aroceu'."/></a></li>
 	<li><a class="fancybox" href="lilkikibat-kingdra.png" data-fancybox-group="gallery" title="by lilkikibat"><img src="lilkikibat-kingdra.png" alt="Kingdra with bubbles"/></a></li>
