@@ -4,8 +4,14 @@
 
 <!-- navigation hearts: https://pixel-soup.tumblr.com/post/93863585372/pixelspoox-request-hearts -->
 
-	<meta name="viewport" content="initial-scale=1.0, maximum-scale=5, width=device-width">
+	<meta name="robots" content="noai, noimageai">
+	<meta charset="UTF-8">
 	<meta name="description" content="hello i am an obsessive writer, website owner, and fujoshi, and this is my house."/>
+	<meta property="og:title" content="gifts for aroceu" />
+	<meta property="og:description" content="hello i am an obsessive writer, website owner, and fujoshi, and this is my house." />
+	<meta property="og:image" content="https://aroceu.com/gifts/preview.png" />
+	<meta property="og:url" content="https://aroceu.com/gifts" />
+	<meta name="viewport" content="initial-scale=1.0, maximum-scale=5, width=device-width">
 
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
