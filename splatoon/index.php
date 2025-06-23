@@ -15,6 +15,7 @@
 <p>You can check out my dedicated Splatoon webpage <a href="https://aroceu.com/splatoon">here</a>.</p>
 
 <ul id="gallery">
+	<li><a class="fancybox" href="s3-popoptart.png" data-fancybox-group="gallery" title="by popop_tart"><img src="s3-popoptart.png" alt="Digital art of my octoling's outfit from Splatoon 2 but made for Splatoon 3, with the Torrentz Hydra Splatling on her lap."></a></li>
 	<li><a class="fancybox" href="s3-stupjam.png" data-fancybox-group="gallery" title="by stupjam"><img src="s3-stupjam.png" alt="Digital art of my octoling in Splatoon 3 fighting alongside Kingdra from Pokemon. My tri-stringer is outputting pink ink while Kingdra is outputting dark blue ink, both colors blinding in the ink at our feet."/></a></li>
 	<li><a class="fancybox" href="s3-oveikeii.png" data-fancybox-group="gallery" title="by oveikeii"><img src="s3-oveikeii.png" alt="Digital art of two octolings in Splatoon 3: one is mine, and the other is Rae's. Rae's ink color is a slightly lighter pink than mine, and she is wearing the blue Annaki cuff and blue lo-tops and holding the vanilla Splattershot Pro. Our octolings are posed back to back like we're chill but having fun."/></a></li>
 	<li><a class="fancybox" href="s3-annaswelle.png" data-fancybox-group="gallery" title="by AnnaSwelle"><img src="s3-annaswelle.png" alt="Tableturf art of my octoling in Splatoon 3. The card name is Arrow and a 5-special grid shaped like a bow and arrow. The card itself is fresh and rare."/></a></li>
