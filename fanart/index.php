@@ -25,6 +25,7 @@
 	<li><a class="fancybox" href="jeanette-kagehina.png" data-fancybox-group="gallery" title="by Jeanette (paltita-sketch)"><img src="jeanette-kagehina.png" alt="Digital art of Hinata on Kageyama's lap and kissing him"/></a></li>
 	<li><a class="fancybox" href="cathy-em.jpg" data-fancybox-group="gallery" title="by Cathy"><img src="cathy-em.jpg" alt="Sketch of Mark and Eduardo as women and kissing"/></a></li>
 	<li><a class="fancybox" href="katie-kunimi.png" data-fancybox-group="gallery" title=""><img src="katie-kunimi.png" alt="Icon of Kunimi dressed as a poochyena"/></a></li>
+	<li><a class="fancybox" href="starfruit-iwaenno.jpg" data-fancybox-group="gallery" title="by starfruit"><img src="starfruit-iwaenno.jpg" alt="Sketch of Iwaizumi and Ennoshita's faces pressed close together."/></a></li>
 	<li><a class="fancybox" href="feasted-kagehina.jpg" data-fancybox-group="gallery" title="by feasted as part of a personal exchange"><img src="feasted-kagehina.jpg" alt="Fanart of Hinata and Kageyama in Hogwarts, Hinata trying to talk to Kageyama over food"/></a></li>
 	<li><a class="fancybox" href="mishhe-kagehina.png" data-fancybox-group="gallery" title="by mishhe for interhigh"><img src="mishhe-kagehina.png" alt="Digital art of Hinata on Kageyama's lap and kissing him on the cheek; Kageyama is blushing"/></a></li>
 	<li><a class="fancybox" href="christina-roserade.PNG" data-fancybox-group="gallery" title="Digital art of Roserade"><img src="christina-roserade.PNG" alt=""/></a></li>
